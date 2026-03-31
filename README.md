@@ -1,12 +1,12 @@
 # 🌐 Digital Literacy Project
 
 ## 👤 Student Details
-**Name:** Divyansh Bisht
-**Registration Number:** 25BCE10667
-**Branch:** Computer Science Engineering  
-**Year:** 1st Year  
-**Course Code:** CSE0001  
-**University:** VIT Bhopal University  
+**Name:** Divyansh Bisht  
+**Registration Number:** 25BCE10667  
+**Branch:** Computer Science Engineering    
+**Year:** 1st Year    
+**Course Code:** CSE0001    
+**University:** VIT Bhopal University    
 
 ---
 
